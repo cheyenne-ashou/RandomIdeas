@@ -1,5 +1,4 @@
 # RandomIdeas
-***
 This is a full stack application for sharing ideas. The application was built using a Node.js/Express REST API with a MongoDB database.  
 It is my first full stack application made with the help of a turtorial found at https://github.com/bradtraversy/randomideas-app.git.
 ![image](https://user-images.githubusercontent.com/54869764/232514137-f5bd9618-4810-40b1-b256-9a90f876aea7.png)
